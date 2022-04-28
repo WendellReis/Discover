@@ -39,3 +39,9 @@ console.log(-7)
 console.log(12.5 == Infinity) // expressao logica
 console.log(10 / 2.5)
 console.log(2 / "abc") // Not a Number
+
+/**
+ * - String
+ */
+
+console.log(`Soma = ${1 + 1}`)
